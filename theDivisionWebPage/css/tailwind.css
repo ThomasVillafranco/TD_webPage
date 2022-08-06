@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+.narrative {
+@apply text-gray-900 leading-tight w-auto  px-2 py-2 md:text-lg
+
+}
+
+@tailwind utilities;
